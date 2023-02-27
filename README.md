@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<a href="https://ibb.co/L0MfGJG"><img src="https://i.ibb.co/fXb7cnc/SDE-1.png" align="right" width="400" alt="SDE-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
+<a href="https://ibb.co/L0MfGJG"><img src="https://i.ibb.co/fXb7cnc/SDE-1.png" align="right" width="400" alt="SDE-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 - 🌱 I’m currently learning **Node.js**
 
