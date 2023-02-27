@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<img align="right" alt="Coding Image" width="400" src="https://ibb.co/L0MfGJG">
 
 - 🌱 I’m currently learning **Node.js**
 
