@@ -20,9 +20,9 @@
 
 
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyasootar&theme=monokai" alt="soumya"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashankmadaan379&theme=monokai" alt="shashankmadaan379"/>
 </div>
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="soumya"/>
-    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false" alt="soumya" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=shashankmadaan379&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="shashankmadaan379"/>
+    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmadaan379&theme=radical&hide_border=false" alt="shashankmadaan379" />
 </div>
