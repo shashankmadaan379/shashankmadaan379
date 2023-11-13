@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A passionate Software developer with expertise in JavaScript, Java, React, Redux, Node.js, Express, MongoDB, MySQL, Microservices,Docker & Kubernetes and AWS.</h3>
+<h3 align="center">A passionate Software developer with expertise in JavaScript, Java, React, Redux, Node.js, Express, MongoDB, MySQL, Microservices, Docker & Kubernetes, AWS and Data Structures & Algorithms.</h3>
 <a href="https://ibb.co/L0MfGJG"><img src="https://i.ibb.co/fXb7cnc/SDE-1.png" align="right" width="400" alt="SDE-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 - 🌱 I’m currently learning **Spring Framework**
